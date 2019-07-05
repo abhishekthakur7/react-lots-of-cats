@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-lots-of-cats/static/css/main.619c7827.chunk.css",
+    "main.js": "/react-lots-of-cats/static/js/main.17027b11.chunk.js",
+    "main.js.map": "/react-lots-of-cats/static/js/main.17027b11.chunk.js.map",
+    "runtime~main.js": "/react-lots-of-cats/static/js/runtime~main.bff962f9.js",
+    "runtime~main.js.map": "/react-lots-of-cats/static/js/runtime~main.bff962f9.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/react-lots-of-cats/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/react-lots-of-cats/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/react-lots-of-cats/index.html",
+    "precache-manifest.4b71ce0aefcbe95be20a8c26a0be23c4.js": "/react-lots-of-cats/precache-manifest.4b71ce0aefcbe95be20a8c26a0be23c4.js",
+    "service-worker.js": "/react-lots-of-cats/service-worker.js",
+    "static/css/main.619c7827.chunk.css.map": "/react-lots-of-cats/static/css/main.619c7827.chunk.css.map"
+  }
+}
